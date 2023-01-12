@@ -1,0 +1,16 @@
+*.sln
+*.vcxproj
+*.filters
+*.user
+.idea
+*.txt
+
+/cmake-build-debug
+/Debug
+/x64
+*.vs
+/build
+/Release
+
+*out
+*.o

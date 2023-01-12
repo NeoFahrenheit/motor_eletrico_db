@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-07-30 11:20-0300\n"
+"PO-Revision-Date: 2022-07-30 19:37-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: CP1252\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cMain.cpp:10
+msgid "Biblioteka Motora"
+msgstr "Biblioteka Motora"
+
+#: cMain.cpp:54 cMain.cpp:417
+msgid "Nome do motor aqui"
+msgstr "Nome do motor aqui"
+
+#: cMain.cpp:61
+msgid "Pesquisar"
+msgstr "Pesquisar"
+
+#: cMain.cpp:66
+msgid "Filtros de pesquisa"
+msgstr "Filtros de pesquisa"
+
+#: cMain.cpp:75 cMain.cpp:343 cMotor.cpp:93
+msgid "Marca"
+msgstr "Marca"
+
+#: cMain.cpp:76 cMain.cpp:77
+msgid "Marca A"
+msgstr "Marca A"
+
+#: cMain.cpp:76
+msgid "Marca B"
+msgstr "Marca B"
+
+#: cMain.cpp:91 cMain.cpp:348 cMotor.cpp:118
+msgid "Potência"
+msgstr "Potência"
+
+#: cMain.cpp:92 cMain.cpp:95 cMain.cpp:98 cMain.cpp:120 cMain.cpp:139
+msgid "maior que"
+msgstr "maior que"
+
+#: cMain.cpp:92 cMain.cpp:120 cMain.cpp:139
+msgid "menor que"
+msgstr "menor que"
+
+#: cMain.cpp:93 cMain.cpp:96 cMain.cpp:99
+msgid "W"
+msgstr "W"
+
+#: cMain.cpp:93 cMotor.cpp:77
+msgid "HP"
+msgstr "HP"
+
+#: cMain.cpp:93
+msgid "CV"
+msgstr "CV"
+
+#: cMain.cpp:119
+msgid "RPM"
+msgstr "RPM"
+
+#: cMain.cpp:120 cMain.cpp:121 cMain.cpp:139 cMain.cpp:140
+msgid "igual a"
+msgstr "igual a"
+
+#: cMain.cpp:138 cMotor.cpp:103
+msgid "Número de polos"
+msgstr "Número de polos"
+
+#: cMain.cpp:157 cMotor.cpp:124
+msgid "Tipo do motor"
+msgstr "Tipo do motor"
+
+#: cMain.cpp:158 cMain.cpp:159
+msgid "monofásico"
+msgstr "monofásico"
+
+#: cMain.cpp:158
+msgid "trifásico"
+msgstr "trifásico"
+
+#: cMain.cpp:197
+msgid "Exportar banco de dados"
+msgstr "Exportar banco de dados"
+
+#: cMain.cpp:197
+msgid "Exportar o banco de dados atual para um arquivo"
+msgstr "Exportar o banco de dados atual para um arquivo"
+
+#: cMain.cpp:198
+msgid "Importar banco de dados"
+msgstr "Importar banco de dados"
+
+#: cMain.cpp:198
+msgid "Importar um banco de dados a partir de um arquivo"
+msgstr "Importar um banco de dados a partir de um arquivo"
+
+#: cMain.cpp:199
+msgid "Preferências"
+msgstr "Preferências"
+
+#: cMain.cpp:199
+msgid "Acessar a janela de configurações e preferências"
+msgstr "Acessar a janela de configurações e preferências"
+
+#: cMain.cpp:201
+msgid "Sair"
+msgstr "Sair"
+
+#: cMain.cpp:201
+msgid "Sair do programa"
+msgstr "Sair do programa"
+
+#: cMain.cpp:204 cMotor.cpp:12
+msgid "Adicionar motor"
+msgstr "Adicionar motor"
+
+#: cMain.cpp:204
+msgid "Cadastrar um novo motor no banco de dados"
+msgstr "Cadastrar um novo motor no banco de dados"
+
+#: cMain.cpp:205 cMotor.cpp:10
+msgid "Editar motor"
+msgstr "Editar motor"
+
+#: cMain.cpp:205
+msgid "Editar um motor existente no banco de dados"
+msgstr "Editar um motor existente no banco de dados"
+
+#: cMain.cpp:206
+msgid "Remover motor"
+msgstr "Remover motor"
+
+#: cMain.cpp:206
+msgid "Remover um motor do banco de dados"
+msgstr "Remover um motor do banco de dados"
+
+#: cMain.cpp:209
+msgid "Próximo"
+msgstr "Próximo"
+
+#: cMain.cpp:209
+msgid "Avança para o motor seguinte na lista de pesquisa"
+msgstr "Avança para o motor seguinte na lista de pesquisa"
+
+#: cMain.cpp:210
+msgid "Anterior"
+msgstr "Anterior"
+
+#: cMain.cpp:210
+msgid "Retrocede para o motor anterior lista de pesquisa"
+msgstr "Retrocede para o motor anterior lista de pesquisa"
+
+#: cMain.cpp:211
+msgid "Ver imagem em tela cheia"
+msgstr "Ver imagem em tela cheia"
+
+#: cMain.cpp:211
+msgid "Abrir a imagem do motor em tela cheia"
+msgstr "Abrir a imagem do motor em tela cheia"
+
+#: cMain.cpp:212
+msgid "Estatísticas"
+msgstr "Estatísticas"
+
+#: cMain.cpp:212
+msgid "Ver dados gerais sobre o banco de dados"
+msgstr "Ver dados gerais sobre o banco de dados"
+
+#: cMain.cpp:215
+msgid "Como utilizar"
+msgstr "Como utilizar"
+
+#: cMain.cpp:215
+msgid "Aprenda como utilizar o programa"
+msgstr "Aprenda como utilizar o programa"
+
+#: cMain.cpp:216
+msgid "Sobre"
+msgstr "Sobre"
+
+#: cMain.cpp:216
+msgid "Abrir a janela de informações sobre este programa"
+msgstr "Abrir a janela de informações sobre este programa"
+
+#: cMain.cpp:218
+msgid "Arquivo"
+msgstr "Arquivo"
+
+#: cMain.cpp:219
+msgid "Gerenciar"
+msgstr "Gerenciar"
+
+#: cMain.cpp:220
+msgid "Ver"
+msgstr "Ver"
+
+#: cMain.cpp:221
+msgid "Ajuda"
+msgstr "Ajuda"
+
+#: cMain.cpp:232
+msgid "Adicionar"
+msgstr "Adicionar"
+
+#: cMain.cpp:232
+msgid "Adicionar Motor"
+msgstr "Adicionar Motor"
+
+#: cMain.cpp:233
+msgid "Editar"
+msgstr "Editar"
+
+#: cMain.cpp:233
+msgid "Editar Motor"
+msgstr "Editar Motor"
+
+#: cMain.cpp:234
+msgid "Deletar"
+msgstr "Deletar"
+
+#: cMain.cpp:234
+msgid "Remover Motor"
+msgstr "Remover Motor"
+
+#: cMain.cpp:273 cMain.cpp:328 cMotor.cpp:73 cMotor.cpp:74 cMotor.cpp:129
+msgid "Monofásico"
+msgstr "Monofásico"
+
+#: cMain.cpp:276 cMotor.cpp:143
+msgid "n° espiras da bobina de trabalho"
+msgstr "n° espiras da bobina de trabalho"
+
+#: cMain.cpp:279 cMain.cpp:286 cMain.cpp:305 cMotor.cpp:148 cMotor.cpp:163
+#: cMotor.cpp:193
+msgid "Espessura do fio (mm)"
+msgstr "Espessura do fio (mm)"
+
+#: cMain.cpp:280 cMain.cpp:287 cMotor.cpp:153 cMotor.cpp:168
+msgid "Material do fio"
+msgstr "Material do fio"
+
+#: cMain.cpp:283 cMotor.cpp:158
+msgid "n° espiras da bobina auxiliar"
+msgstr "n° espiras da bobina auxiliar"
+
+#: cMain.cpp:288 cMain.cpp:306
+msgid "n° fios por espira"
+msgstr "n° fios por espira"
+
+#: cMain.cpp:304 cMotor.cpp:188
+msgid "Passo de cada espira"
+msgstr "Passo de cada espira"
+
+#: cMain.cpp:322
+msgid "Parâmetro"
+msgstr "Parâmetro"
+
+#: cMain.cpp:325
+msgid "Valor"
+msgstr "Valor"
+
+#: cMain.cpp:344 cMotor.cpp:98
+msgid "Modelo"
+msgstr "Modelo"
+
+#: cMain.cpp:345
+msgid "Número de Polos"
+msgstr "Número de Polos"
+
+#: cMain.cpp:346 cMotor.cpp:108
+msgid "Rotações (RPM)"
+msgstr "Rotações (RPM)"
+
+#: cMain.cpp:347 cMotor.cpp:113
+msgid "Tensão (Volts)"
+msgstr "Tensão (Volts)"
+
+#: cMotor.cpp:27
+msgid "Observações"
+msgstr "Observações"
+
+#: cMotor.cpp:31
+msgid "Salvar motor"
+msgstr "Salvar motor"
+
+#: cMotor.cpp:33
+msgid "Rotacionar imagem para esquerda"
+msgstr "Rotacionar imagem para esquerda"
+
+#: cMotor.cpp:35
+msgid "Rotacionar imagem para direita"
+msgstr "Rotacionar imagem para direita"
+
+#: cMotor.cpp:37
+msgid "Trocar imagem"
+msgstr "Trocar imagem"
+
+#: cMotor.cpp:47
+msgid "Adicionar imagem"
+msgstr "Adicionar imagem"
+
+#: cMotor.cpp:70
+msgid "WEG"
+msgstr "WEG"
+
+#: cMotor.cpp:70 cMotor.cpp:71
+msgid "ABB"
+msgstr "ABB"
+
+#: cMotor.cpp:70
+msgid "SIEMENS"
+msgstr "SIEMENS"
+
+#: cMotor.cpp:70
+msgid "ECOV)IS"
+msgstr "ECOV)IS"
+
+#: cMotor.cpp:73 cMotor.cpp:180
+msgid "Trifásico"
+msgstr "Trifásico"
+
+#: cMotor.cpp:77 cMotor.cpp:78
+msgid "Watts"
+msgstr "Watts"
+
+#: cMotor.cpp:77
+msgid "Cavalos"
+msgstr "Cavalos"
+
+#: cMotor.cpp:133 cMotor.cpp:134 cMotor.cpp:138 cMotor.cpp:139
+msgid "Cobre"
+msgstr "Cobre"
+
+#: cMotor.cpp:133 cMotor.cpp:138
+msgid "Alumínio"
+msgstr "Alumínio"
+
+#: cMotor.cpp:173 cMotor.cpp:198
+msgid "n° de fios por espira"
+msgstr "n° de fios por espira"
+
+#: cMotor.cpp:226
+msgid "Selecione uma imagem"
+msgstr "Selecione uma imagem"
+
+#: cMotor.cpp:227
+msgid "Imagens (*.jpg, *.png, *.jpeg, *.gif, *.bmp)|*.jpg;*.png;*.jpeg;*.gif;*.bmp"
+msgstr "Imagens (*.jpg, *.png, *.jpeg, *.gif, *.bmp)|*.jpg;*.png;*.jpeg;*.gif;*.bmp"
